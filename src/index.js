@@ -1,6 +1,5 @@
-const {Pet, aPet} = require("./newPet");
+const {Pet} = require("./newPet");
 
 module.exports = {
     Pet,
-    aPet
 };
